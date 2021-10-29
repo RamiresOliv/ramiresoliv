@@ -1,3 +1,3 @@
 <script>
-  window.location.href = Readme
+  window.location.href = readme
 </script>
