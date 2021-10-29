@@ -13,8 +13,8 @@ and welcome to my trash!
 <details>
 <summary>About to me... pt-br</summary>
 <br>
-gosto de programar e talvez no futuro utilizar minhas habilidades para gerar dinheiro ou algo parecido
-
+ 
+> gosto de programar e talvez no futuro utilizar minhas habilidades para gerar dinheiro ou algo parecido
 em fim nos meus dias eu fico maior tempo programando e criando mapas no [Roblox](https://roblox.com) sim  não me critique até que a criação de Mapas melhora minha vizão em programar [Lua](https://www.lua.org)
 
 os tipos de linguagem que amo programar são:
