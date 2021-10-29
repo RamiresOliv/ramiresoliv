@@ -9,9 +9,7 @@ and welcome to my trash!
  - [Todyynho Junior](https://github.com/gabrielramires/Todyynho-Junior) *(only me)*
  - [cmd menu](https://github.com/gabrielramires/cmd_menu) *(only me)*
  - [projetos com python](https://github.com/gabrielramires/projetos-com-python) *(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)*
-
-[About to me](./about_pt-br) IN PT-BR
-
+ 
 <details>
 <summary>About to me... pt-br</summary>
 <br>
