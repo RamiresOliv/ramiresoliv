@@ -1,4 +1,10 @@
 theme: minima
 
+title: My blog
+descripition: ->
+    my cool blog website
+url: ""
+
+
 # Outros
 github_username: gabrielramires
