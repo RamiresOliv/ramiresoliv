@@ -1,7 +1,7 @@
 theme: minima
 
 title: My blog
-descripition: ->
+descripition: >-
     my cool blog website
 baseurl: 'about'
 
