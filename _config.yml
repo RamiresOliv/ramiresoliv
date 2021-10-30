@@ -2,8 +2,8 @@ theme: minima
 
 title: My blog
 descripition: >-
-    my cool blog website
-baseurl: 'about'
+  my cool blog website
+baseurl: ''
 
 
 # Outros
