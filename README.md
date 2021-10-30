@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Hello World! 😁
 
 > my name is Gabriel Ramires de Oliveira
