@@ -18,6 +18,7 @@ os tipos de linguagem que amo programar são:
 7. [Python](https://www.python.org)
   </p>`
   } else {
+     openned = false
      document.getElementById("abouttome_text").innerHTML = ""
    }
  }
