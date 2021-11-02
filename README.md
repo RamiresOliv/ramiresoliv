@@ -1,5 +1,4 @@
-
-## Hello World! 😁
+<h1 align="center"> Hello World! 😁</h1>
 
 > my name is Gabriel Ramires de Oliveira
 
@@ -15,8 +14,8 @@ and welcome to my trash!
 <summary>About to me... pt-br</summary>
 <br>
  
-> gosto de programar e talvez no futuro utilizar minhas habilidades para gerar dinheiro ou algo parecido
-em fim nos meus dias eu fico maior tempo programando e criando mapas no [Roblox](https://roblox.com) sim  não me critique até que a criação de Mapas melhora minha vizão em programar [Lua](https://www.lua.org)
+> gosto de programar. Mas talvez no futuro utilizar minhas habilidades de Programar para gerar dinheiro ou algo parecido
+em fim, nos meus dias eu fico maior tempo programando e criando mapas no [Roblox](https://roblox.com) sim não me critique até que a criação de Mapas melhora minha vizão em programar [Lua](https://www.lua.org)
 
 os tipos de linguagem que amo programar são:
 
@@ -29,5 +28,9 @@ os tipos de linguagem que amo programar são:
 7. [Python](https://www.python.org)
 
 Em fim são essas as linguagem que amo programar :D
+ 
+estou Começando a usar [Jekyll](https://jekyllrb.com)!
+ - Meus projetos em [Jekyll](https://jekyllrb.com):
+  1. [MinecraftServerMenu](https://gabrielramires.github.io/MinecraftServerMenu)
  
 </details>
