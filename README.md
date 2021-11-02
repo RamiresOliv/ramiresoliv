@@ -29,8 +29,8 @@ os tipos de linguagem que amo programar são:
 
 Em fim são essas as linguagem que amo programar :D
  
-estou Começando a usar [Jekyll](https://jekyllrb.com)!
- - Meus projetos em [Jekyll](https://jekyllrb.com):
-  1. [MinecraftServerMenu](https://gabrielramires.github.io/MinecraftServerMenu)
+- estou Começando a usar [Jekyll](https://jekyllrb.com)!\
+ Meus projetos em [Jekyll](https://jekyllrb.com):\
+ [MinecraftServerMenu](https://gabrielramires.github.io/MinecraftServerMenu)
  
 </details>
