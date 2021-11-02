@@ -9,13 +9,13 @@ em fim, nos meus dias eu fico maior tempo programando e criando mapas no [Roblox
 
 os tipos de linguagem que amo programar são:\
 
-1. [Node.js](https://nodejs.org) *(JavaScript)*\
-2. [Lua](https://www.lua.org)\
-3. [Markdown](https://www.markdownguide.org)\
-4. [Html](https://developer.mozilla.org/docs/Web/HTML) junto [Css](https://developer.mozilla.org/docs/Web/CSS)\
-5. [Ruby](https://www.ruby-lang.org) (aprendendo) *com uso de [Jekyll](https://jekyllrb.com)*\
-6. [Batch](https://docs.microsoft.com/azure/batch/)\
-7. [Python](https://www.python.org)
+1. <a href="https://nodejs.org">Node.js</a> *(JavaScript)*\
+2. <a href="https://www.lua.org">Lua</a> \
+3. <a href="https://www.markdownguide.org">Markdown</a> \
+4. <a href="https://developer.mozilla.org/docs/Web/HTML">Html</a> junto <a href="https://developer.mozilla.org/docs/Web/CSS">Css</a> \
+5. <a href="https://www.ruby-lang.org">Ruby</a> (aprendendo) *com uso de <a href="https://jekyllrb.com">Jekyll</a>* \
+6. <a href="https://docs.microsoft.com/azure/batch">Batch</a> \
+7. <a href="https://www.python.org">Python</a> 
   </p>`
   } else {
      openned = false
