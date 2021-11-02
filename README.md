@@ -12,7 +12,7 @@ and welcome to my trash!
  - [cmd menu](https://github.com/gabrielramires/cmd_menu) *(only me)*
  - [projetos com python](https://github.com/gabrielramires/projetos-com-python) *(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)*
  
-<ins id="abouttome" onclick="abouttome()" style="cursor: pointer;">About to me... pt-br</ins>
+<ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins>
 <br>
 
 <div id="abouttome_text">
