@@ -12,7 +12,7 @@ and welcome to my trash!
  - [cmd menu](https://github.com/gabrielramires/cmd_menu) *(only me)*
  - [projetos com python](https://github.com/gabrielramires/projetos-com-python) *(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)*
  
-<ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins>
+<strong><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
 <br>
 
 <div id="abouttome_text">
@@ -24,5 +24,3 @@ Em fim são essas as linguagem que amo programar :D
 - estou Começando a usar [Jekyll](https://jekyllrb.com)!\
  Meus projetos em [Jekyll](https://jekyllrb.com):\
  [MinecraftServerMenu](https://gabrielramires.github.io/MinecraftServerMenu)
- 
-</details>
