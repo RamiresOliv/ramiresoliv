@@ -7,6 +7,7 @@
 and welcome to my trash!
 
 ### My trash
+ - [Minecraft Table](https://github.com/gabrielramires/MinecraftTable) *(only me)*
  - [Minecraft Server Menu](https://github.com/gabrielramires/MinecraftServerMenu) *(only me)*
  - [Todyynho Junior](https://github.com/gabrielramires/Todyynho-Junior) *(only me)*
  - [cmd menu](https://github.com/gabrielramires/cmd_menu) *(only me)*
