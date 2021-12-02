@@ -1,4 +1,4 @@
-{% include main.js %} <!-- this exists for call the js maain file -->
+{% include main.js %}
 
 <h1 align="center"> Hello World! 😁</h1>
 
