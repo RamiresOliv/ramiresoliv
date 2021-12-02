@@ -1,3 +1,4 @@
+<script>
 openned = false
  
  function abouttome() {
@@ -23,3 +24,4 @@ openned = false
      document.getElementById("abouttome_text").innerHTML = ""
    }
  }
+</script>
