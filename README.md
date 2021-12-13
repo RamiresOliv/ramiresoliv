@@ -7,7 +7,7 @@
 and welcome to my trash!
 
 ### My trash
- - [Eazy Jekyll](https://github.com/gabrielramires/Eazy_Jekyll) *(only me)*
+ - [Easy Jekyll](https://github.com/gabrielramires/Easy_Jekyll) *(only me)*
  - [Minecraft Table](https://github.com/gabrielramires/MinecraftTable) *(only me)*
  - [Minecraft Server Menu](https://github.com/gabrielramires/MinecraftServerMenu) *(only me)*
  - [Todyynho Junior](https://github.com/gabrielramires/Todyynho-Junior) *(only me)*
