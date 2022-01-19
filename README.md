@@ -2,8 +2,6 @@
 
 <h1 align="center"> Hello World! 😁</h1>
 
-> my name is Gabriel Ramires de Oliveira
-
 and welcome to my trash!
 
 ### My trash
