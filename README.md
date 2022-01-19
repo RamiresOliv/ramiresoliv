@@ -1,5 +1,3 @@
-{% include main.js %}
-
 <h1 align="center"> Hello World! 😁</h1>
 
 and welcome to my trash!
@@ -24,3 +22,5 @@ Em fim são essas as linguagem que amo programar :D
 - estou Começando a usar [Jekyll](https://jekyllrb.com)!\
  Meus projetos em [Jekyll](https://jekyllrb.com):\
  [MinecraftServerMenu](https://gabrielramires.github.io/MinecraftServerMenu)
+
+{% include main.js %}
