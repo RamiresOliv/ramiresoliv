@@ -6,7 +6,7 @@ and welcome to my trash!
 
 - [Easy Jekyll](https://github.com/gabrielramires/Easy_Jekyll) _(only me)_
 - [Minecraft Table](https://github.com/gabrielramires/MinecraftTable) _(only me)_
-- [Minecraft Server Menu](https://github.com/gabrielramires/MinecraftServerMenu) _(only me)_
+- [Minecraft Server Menu](https://github.com/gabrielramires/MinecraftServerMenu) _(only me)_ _With more recent updates_
 - [Todyynho Junior](https://github.com/gabrielramires/Todyynho-Junior) _(only me)_
 - [cmd menu](https://github.com/gabrielramires/cmd_menu) _(only me)_
 - [projetos com python](https://github.com/gabrielramires/projetos-com-python) _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_
