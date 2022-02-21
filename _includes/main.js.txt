@@ -1,3 +1,4 @@
+<script>
 openned = false
 document.getElementById("RemoveMe").innerHTML = "";
 
@@ -32,3 +33,4 @@ while ( true ) {
     document.getElementById("MSG").style.color = color.random()
   }, 1000);
 }
+</script>

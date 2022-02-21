@@ -26,4 +26,4 @@ Em fim são essas as linguagem que amo programar :D
 
 <p id="RGB">Ramires</p>
 
-<script src="main.js"></script>
+{% include main.js.txt %}
