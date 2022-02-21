@@ -10,7 +10,7 @@ and welcome to my trash!
  - [cmd menu](https://github.com/gabrielramires/cmd_menu) *(only me)*
  - [projetos com python](https://github.com/gabrielramires/projetos-com-python) *(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)*
  
-<strong><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong> {{ Dont Work if you seeing this in Github! try on <a href="https://RamiresOliv.github.io/RamiresOliv">Website</a>}}
+<p id="RemoveMe"><i>The button 'About to me...' don't works in Github try on <a href="https://RamiresOliv.github.io/RamiresOliv">Website</a></i></p><strong><br><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
 <br>
 
 <div id="abouttome_text">
