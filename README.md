@@ -11,7 +11,7 @@ and welcome to my trash!
 - [cmd menu](https://github.com/gabrielramires/cmd_menu) _(only me)_
 - [projetos com python](https://github.com/gabrielramires/projetos-com-python) _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_
 
-<b>WARN>>></b> <p id="RemoveMe"><i>The button 'About to me...' don't works in Github try on <a href="https://RamiresOliv.github.io/RamiresOliv">Website</a></i></p><strong><br><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
+<b>WARN</b> -- <p id="RemoveMe"><i>The button 'About to me...' don't works in Github try on <a href="https://RamiresOliv.github.io/RamiresOliv">Website</a></i></p><strong><br><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
 <br>
 
 <div id="abouttome_text"></div>
