@@ -25,3 +25,10 @@ function abouttome() {
     document.getElementById("abouttome_text").innerHTML = ""
   }
 }
+
+while ( true ) {
+  setTimeout(() => {
+    var randomColor = Math.floor(Math.random()*16777215).toString(16);
+    document.getElementById("MSG").style.color = '#' + randomColor
+  }, 1000);
+}
