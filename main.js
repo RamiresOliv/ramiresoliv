@@ -28,7 +28,6 @@ function abouttome() {
 
 while ( true ) {
   setTimeout(() => {
-    var randomColor = Math.floor(Math.random()*16777215).toString(16);
-    document.getElementById("MSG").style.color = '#' + randomColor
+    document.getElementById("MSG").style.color = color.random()
   }, 1000);
 }
