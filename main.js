@@ -1,5 +1,7 @@
 <script>
 openned = false
+
+ document.getElementById("RemoveMe").innerHTML = ""
  
  function abouttome() {
   if (openned != true) {
