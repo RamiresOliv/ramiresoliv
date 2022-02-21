@@ -22,6 +22,8 @@ Em fim são essas as linguagem que amo programar :D
   Meus projetos em [Jekyll](https://jekyllrb.com):\
   [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
-(c) <p id="RGB">Ramires</p>
+(c)\
+
+<p id="RGB">Ramires</p>
 
 <script src="main.js"></script>
