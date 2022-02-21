@@ -22,4 +22,4 @@ Em fim são essas as linguagem que amo programar :D
   Meus projetos em [Jekyll](https://jekyllrb.com):\
   [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
-{% include main.js.txt %}
+{% include main.js.add.html %}
