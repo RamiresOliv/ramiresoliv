@@ -28,6 +28,7 @@ function abouttome() {
 
 while ( true ) {
   setTimeout(() => {
+    console.log("EEEEEEEEEEEEEEEEE")
     document.getElementById("MSG").style.color = color.random()
   }, 1000);
 }
