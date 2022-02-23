@@ -16,8 +16,6 @@ and welcome to my trash!
 
 <div id="abouttome_text"></div>
 
-Em fim são essas as linguagem que amo programar :D
-
 - estou Começando a usar [Jekyll](https://jekyllrb.com)!\
   Meus projetos em [Jekyll](https://jekyllrb.com):\
   [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
