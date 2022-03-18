@@ -1,8 +1,8 @@
 <h1 align="center"> Hello World! 😁</h1>
 
-and welcome to my trash!
+> Um programador com intuito de aprender mais 👍
 
-### My trash
+### My Projects _Trash..._
 
 - [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) _(only me)_
 - [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) _(only me)_
