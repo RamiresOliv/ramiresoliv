@@ -16,7 +16,7 @@
 
 <div id="abouttome_text"></div>
 
-  - Meus projetos em [Jekyll](https://jekyllrb.com):
+  - Meus projetos em [Jekyll](https://jekyllrb.com):<br>
     [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
 {% include main.js.add.html %}
