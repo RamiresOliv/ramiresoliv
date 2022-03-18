@@ -16,8 +16,7 @@ and welcome to my trash!
 
 <div id="abouttome_text"></div>
 
-- estou Começando a usar [Jekyll](https://jekyllrb.com)!\
-  Meus projetos em [Jekyll](https://jekyllrb.com):\
-  [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
+  - Meus projetos em [Jekyll](https://jekyllrb.com):
+    [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
 {% include main.js.add.html %}
