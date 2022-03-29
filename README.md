@@ -4,7 +4,7 @@
 
 ### My Projects _Trash..._
 
-- [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) _(only me)_
+- [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) _(only me)_ _With more recent updates_
 - [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) _(only me)_
 - [Minecraft Server Menu](https://github.com/RamiresOliv/MinecraftServerMenu) _(only me)_ _With more recent updates_
 - [Todyynho Junior](https://github.com/RamiresOliv/Todyynho-Junior) _(only me)_
