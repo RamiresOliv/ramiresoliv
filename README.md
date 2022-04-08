@@ -11,12 +11,14 @@
 - [cmd menu](https://github.com/RamiresOliv/cmd_menu) _(only me)_
 - [projetos com python](https://github.com/RamiresOliv/projetos-com-python) _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_
 
-<p id="RemoveMe"><b>WARN</b> -- <i>The button 'About to me...' don't works in Github try on the <a href="https://RamiresOliv.github.io/ramiresoliv">Website</a></i></p><strong><br><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
+## Others
+
+- My projects in [Jekyll](https://jekyllrb.com):<br>
+  - [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
+
+<p id="RemoveMe">-__________________________________________-<br><b>WARN</b> -- <i>The button 'About to me...' don't works in Github try on the <a href="https://RamiresOliv.github.io/ramiresoliv">Website</a></i><br>-__________________________________________-</p><strong><br><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
 <br>
 
 <div id="abouttome_text"></div>
-
-  - Meus projetos em [Jekyll](https://jekyllrb.com):<br>
-    [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
 {% include main.js.add.html %}
