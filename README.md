@@ -16,7 +16,7 @@
 - My projects in [Jekyll](https://jekyllrb.com):<br>
   - [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
-<ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
+<strong><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
 <p id="RemoveMe">-__________________________________________-<br><b>WARN</b> -- <i>The button 'About to me...' don't works in Github try on the <a href="https://RamiresOliv.github.io/ramiresoliv">Website</a></i><br>-__________________________________________-</p><strong> 
 <br>
 
