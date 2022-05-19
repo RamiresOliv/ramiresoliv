@@ -1,4 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+
 <h1 align="center"> Hello World! 😁</h1>
 
 > Um programador com intuito de aprender mais 👍
@@ -23,5 +24,8 @@
 <br>
 
 <div id="abouttome_text"></div>
+  
+  
+<p align="center"><a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv"></a></p>
 
 {% include main.js.add.html %}
