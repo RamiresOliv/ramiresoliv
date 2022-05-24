@@ -8,13 +8,13 @@ Last change in `24/05/2022`.
 
 ### My Projects _Trash..._
 
-- [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) _(only me)_ _With more recent updates_ 
-- [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) _(only me)_ _With more recent updates_
-- [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) _(only me)_
-- [Minecraft Server Menu](https://github.com/RamiresOliv/MinecraftServerMenu) _(only me)_ _With more recent updates_
-- [Todyynho Junior](https://github.com/RamiresOliv/Todyynho-Junior) _(only me)_
-- [cmd menu](https://github.com/RamiresOliv/cmd_menu) _(only me)_
-- [projetos com python](https://github.com/RamiresOliv/projetos-com-python) _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_
+- [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) | _(only me)_ | _With more recent updates_ 
+- [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) | _(only me)_ | _With more recent updates_
+- [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) | _(only me)_ | _Repo for my Projects in Minecraft._
+- [Minecraft Server Menu](https://github.com/RamiresOliv/MinecraftServerMenu) | _(only me)_ | _No more recents updates.._
+- [Todyynho Junior](https://github.com/RamiresOliv/Todyynho-Junior) | _(only me)_ | _ABANDONED_
+- [cmd menu](https://github.com/RamiresOliv/cmd_menu) | _(only me)_ | _ABANDONED_
+- [projetos com python](https://github.com/RamiresOliv/projetos-com-python) | _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_ | _???_
 
 ## Others
 
