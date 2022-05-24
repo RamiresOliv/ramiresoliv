@@ -8,7 +8,7 @@ Last change in `24/05/2022`.
 
 ### My Projects _Trash..._
 
-- [Music_Bot](https://github.com/RamiresOliv/Bot_Music) | _(only me)_ | _With more recent updates_ 
+- [Music_Bot](https://github.com/RamiresOliv/Bot_Music) | _(only me)_ | _With more recent updates_ | TOTAL BR
 - [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) | _(only me)_ | _Ilde_
 - [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) | _(only me)_ | _Ilde_
 - [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) | _(only me)_ | _Repo for my Projects in Minecraft._
