@@ -2,6 +2,8 @@
 
 <h1 align="center"> Hello World! 😁</h1>
 
+Last change in `24/05/2022`.
+
 > Um programador com intuito de aprender mais 👍
 
 ### My Projects _Trash..._
