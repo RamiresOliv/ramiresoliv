@@ -23,7 +23,7 @@ Last change in `25/06/2022`.
   - [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
 <strong><ins id="abouttome" onclick="abouttome()" style="cursor: pointer; color: blue;">About to me... pt-br</ins></strong>
-<p id="RemoveMe">-__________________________________________-<br><b>WARN</b> -- <i>The button 'About to me...' don't works in Github try on the <a href="https://RamiresOliv.github.io/ramiresoliv">Website</a></i><br>-__________________________________________-</p><strong> 
+<p id="RemoveMe">--------------------------------------<br><b>WARN</b> -- <i>The button 'About to me...' don't works in Github try on the <a href="https://RamiresOliv.github.io/ramiresoliv">Website</a></i><br>--------------------------------------</p><strong> 
 <br>
 
 <div id="abouttome_text"></div>
