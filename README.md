@@ -8,14 +8,14 @@ Last change in `25/06/2022`.
 
 ### My Projects _Trash..._
 
-- [Music_Bot](https://github.com/RamiresOliv/Bot_Music) | _(only me)_ | _With more recent updates_ | _PRIVATED 25/06/22_ | TOTAL BR
-- [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) | _(only me)_ | _Ilde_
-- [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) | _(only me)_ | _Ilde_
-- [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) | _(only me)_ | _Repo for my Projects in Minecraft._
-- [Minecraft Server Menu](https://github.com/RamiresOliv/MinecraftServerMenu) | _(only me)_ | _No more recents updates.._
-- [Todyynho Junior](https://github.com/RamiresOliv/Todyynho-Junior) | _(only me)_ | _ABANDONED_
-- [cmd menu](https://github.com/RamiresOliv/cmd_menu) | _(only me)_ | _ABANDONED_
-- [projetos com python](https://github.com/RamiresOliv/projetos-com-python) | _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_ | _???_
+1. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) | _(only me)_ | _With more recent updates_ | _PRIVATED 25/06/22_ | TOTAL BR
+2. [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) | _(only me)_ | _Ilde_
+3. [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) | _(only me)_ | _Ilde_
+4. [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) | _(only me)_ | _Repo for my Projects in Minecraft._
+5. [Minecraft Server Menu](https://github.com/RamiresOliv/MinecraftServerMenu) | _(only me)_ | _No more recents updates.._
+6. [Todyynho Junior](https://github.com/RamiresOliv/Todyynho-Junior) | _(only me)_ | _ABANDONED_
+7. [cmd menu](https://github.com/RamiresOliv/cmd_menu) | _(only me)_ | _ABANDONED_
+8. [projetos com python](https://github.com/RamiresOliv/projetos-com-python) | _(with [ArthurFt👩‍🦲](https://github.com/ArthurFt) and me)_ | _???_
 
 ## Others
 
