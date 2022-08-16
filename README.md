@@ -28,4 +28,5 @@ Pretendo semrpe aprender mais 😁
 <div id="abouttome_text"></div>
   
 <p align="center"><a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv"></a></p>
+<p align="center"> Bye World! 😁</p>
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
