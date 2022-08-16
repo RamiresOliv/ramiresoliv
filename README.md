@@ -3,11 +3,10 @@
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
 <p align="center"> Hello World! 😁</p>
 
-> Um programador com intuito de aprender mais 👍
-
-Last table update: `25/06/2022`.
+Um programador experiente, em fim se você esta aqui é por que.... Sla vc só quis msm mas seja bem vindo(a)
 
 ### 💼 My Projects _Trash..._
+> Last table update: `25/06/2022`.
 
 1. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _With more recent updates_ - _PRIVATED 25/06/22_  - TOTAL BR
 2. [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) ----------- (only me)   - _Ilde_
