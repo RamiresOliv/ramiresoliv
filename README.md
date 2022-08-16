@@ -5,7 +5,7 @@
 
 > Um programador com intuito de aprender mais 👍
 
-Last change in `25/06/2022`.
+Last table update: `25/06/2022`.
 
 ### 💼 My Projects _Trash..._
 
