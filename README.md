@@ -18,6 +18,11 @@ Um programador experiente, em fim se você esta aqui é por que.... Sla vc só q
 7. [cmd menu](https://github.com/RamiresOliv/cmd_menu) ------------------------- (only me)   - _ABANDONED_
 8. [projetos com python](https://github.com/RamiresOliv/projetos-com-python) -------------- (with [ArthurFt🥶](https://github.com/ArthurFt) and me) - _???_
 
+### My test projects:
+> Last table update: `23/08/2022`.
+
+1. [minecraft-server-uwu](https://github.com/RamiresOliv/minecraft-server-uwu) ------------- (only me)   - _With more recent updates_ - Test in Heroku - CLOSE SOURCE
+
 ## Others
 
 - My projects in [Jekyll](https://jekyllrb.com):<br>
