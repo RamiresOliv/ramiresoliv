@@ -3,7 +3,9 @@
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
 <p align="center"> Hello World! 😁</p>
 
-Um programador experiente, em fim se você esta aqui é por que.... Sla vc só quis msm mas seja bem vindo(a)
+Um programador experiente, em fim se você esta aqui é por que.... Sla vc só quis msm mas seja bem vindo(a)!
+
+Expert em `Javascript, Lua, Python, Html, mucho mais`
 
 ### 💼 My Projects _Trash..._
 > Last table update: `19/08/2022`.
