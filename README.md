@@ -20,7 +20,7 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 7. [cmd menu](https://github.com/RamiresOliv/cmd_menu) ------------------------- (only me)   - _ABANDONED_
 8. [projetos com python](https://github.com/RamiresOliv/projetos-com-python) -------------- (with [ArthurFt🥶](https://github.com/ArthurFt) and me) - _???_
 
-### My test projects:
+### 😨 My in use projects:
 > Last table update: `26/08/2022`.
 
 1. [minecraft-server](https://github.com/RamiresOliv/minecraft-server-uwu) ------------------- (only me)   - _With more recent updates_ - Local Server - CLOSE SOURCE
