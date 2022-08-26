@@ -31,7 +31,7 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 - My projects in [Jekyll](https://jekyllrb.com):<br>
   - [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
 
-Pretendo semrpe aprender mais 😁
+Pretendo sempre aprender mais 😁
 
 <div id="abouttome_text"></div>
   
