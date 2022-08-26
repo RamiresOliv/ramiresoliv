@@ -26,10 +26,9 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 1. [minecraft-server](https://github.com/RamiresOliv/minecraft-server-uwu) ------------------- (only me)   - _With more recent updates_ - Local Server - CLOSE SOURCE
 2. [mcserver-website](https://github.com/RamiresOliv/mcserver-website) ------------------ (only me)   - _With more recent updates_ - Server Website - CLOSE SOURCE - (Private)
 
-## Others
+### 🗿 Others
 
-- My projects in [Jekyll](https://jekyllrb.com):<br>
-  - [MinecraftServerMenu](https://RamiresOliv.github.io/MinecraftServerMenu)
+[Meu canal](https://www.youtube.com/watch?v=o-YBDTqX_ZU) - Video
 
 Pretendo sempre aprender mais 😁
 
