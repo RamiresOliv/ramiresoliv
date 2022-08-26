@@ -23,8 +23,8 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 ### My test projects:
 > Last table update: `26/08/2022`.
 
-1. [minecraft-server](https://github.com/RamiresOliv/minecraft-server-uwu) ------------- (only me)   - _With more recent updates_ - Local Server - CLOSE SOURCE
-2. [mcserver-website](https://github.com/RamiresOliv/mcserver-website) ------------- (only me)   - _With more recent updates_ - Server Website - CLOSE SOURCE - (Private)
+1. [minecraft-server](https://github.com/RamiresOliv/minecraft-server-uwu) ------------------- (only me)   - _With more recent updates_ - Local Server - CLOSE SOURCE
+2. [mcserver-website](https://github.com/RamiresOliv/mcserver-website) ------------------ (only me)   - _With more recent updates_ - Server Website - CLOSE SOURCE - (Private)
 
 ## Others
 
