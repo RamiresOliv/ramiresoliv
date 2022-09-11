@@ -23,7 +23,7 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 ### 😨 My in use projects:
 > Last table update: `26/08/2022`.
 
-1. [local db express](https://github.com/RamiresOliv/local_db_express) ------------------ (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE 
+1. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE 
 2. [minecraft-server](https://github.com/RamiresOliv/minecraft-server-uwu) ------------------- (only me)   - _With more recent updates_ - Local Server - CLOSE SOURCE
 3. [mcserver-website](https://github.com/RamiresOliv/mcserver-website) ------------------ (only me)   - _With more recent updates_ - Server Website - CLOSE SOURCE (Private)
 
