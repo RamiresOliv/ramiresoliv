@@ -35,9 +35,10 @@ Pretendo sempre aprender mais 😁
 
 <div id="abouttome_text"></div>
 
-<p align="center"><a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express"></a></p>
-  
-<p align="center"><a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresOliv&show_icons=true"></a></p>
-<p align="center"><a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true"></a></p>
+<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresOliv&show_icons=true"></a>
+
+<a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express"></a>
+
+<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true"></a>
 <p align="center"> Bye World! 😁</p>
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
