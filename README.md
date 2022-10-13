@@ -29,7 +29,7 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 
 ### 🗿 Others
 
-[Meu canal](https://www.youtube.com/watch?v=o-YBDTqX_ZU) - Video
+[Meu canal](https://youtu.be/mws0TDVgIQ8?t=15) - Video
 
 Pretendo sempre aprender mais 😁
 
