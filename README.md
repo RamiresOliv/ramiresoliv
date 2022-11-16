@@ -29,7 +29,7 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 
 ### 🗿 Others
 
-[Discord MusicBot](https://discord.com/api/oauth2/authorize?client_id=757666380723126345&permissions=8&scope=bot) - Bot de musica brasileiro e generico.
+[Discord MusicBot](https://discord.com/api/oauth2/authorize?client_id=757666380723126345&permissions=8&scope=bot) - Bot de musica brasileiro e generico.<br>
 [Top](https://youtu.be/mws0TDVgIQ8?t=15) - Video
 
 Pretendo sempre aprender mais 😁
