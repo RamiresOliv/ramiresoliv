@@ -14,17 +14,13 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 2. [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) ----------- (only me)   - _Ilde_
 3. [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) -------------------------- (only me)   - _Ilde_
 4. [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) -------------------- (only me)   - _Repo for my Projects in Minecraft._ - _ABANDONED_
-5. [Minecraft Server Menu](https://github.com/RamiresOliv/MinecraftServerMenu) ------------ (only me)   -  _ABANDONED_
 6. [Todyynho Junior](https://github.com/RamiresOliv/Todyynho-Junior) ------------------- (only me)   - _ABANDONED_
-7. [cmd menu](https://github.com/RamiresOliv/cmd_menu) ------------------------- (only me)   - _ABANDONED_
 8. [projetos com python](https://github.com/RamiresOliv/projetos-com-python) -------------- (with [ArthurFt🥶](https://github.com/ArthurFt) and me) - _ABANDONED_
 
 ### 😨 My in use projects:
-> Last table update: `11/16/2022`.
+> Last table update: `04/28/2023`.
 
-1. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE 
-2. [minecraft-server](https://github.com/RamiresOliv/minecraft-server-uwu) ------------------- (only me)   - _With more recent updates_ - Local Server - CLOSE SOURCE
-3. [mcserver-website](https://github.com/RamiresOliv/mcserver-website) ------------------ (only me)   - _With more recent updates_ - Server Website - CLOSE SOURCE 
+1. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
 4. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _No many current updates_ - _PRIVATED 25/06/22_  - TOTAL BR(Private)
 
 ### 🗿 Others
