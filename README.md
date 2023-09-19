@@ -3,7 +3,7 @@
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
 <p align="center"> Hello World! 😁</p>
 
-Um programador experiente, em fim se você esta aqui é por que.... Sla vc só quis msm mas seja bem vindo(a)!
+Boa sorte, tchau
 
 Expert em `Javascript, Lua, Python, Html, mucho mais`
 
