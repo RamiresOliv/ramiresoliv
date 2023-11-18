@@ -3,7 +3,8 @@
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
 <p align="center"> Hello World! 😁</p>
 
-Boa sorte, tchau
+> [!IMPORTANT]\
+> Marketdown maneiro
 
 Expert em `Javascript, Lua, Python, Html, mucho mais`
 
@@ -29,16 +30,16 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 
 [Discord MusicBot](https://discord.com/api/oauth2/authorize?client_id=757666380723126345&permissions=8&scope=bot) - Bot de musica brasileiro e generico.<br>
 
-> [!IMPORTANT]\
-> Legal.
-
 Pretendo sempre aprender mais 😁
+<br><br>
 
-<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresOliv&show_icons=true&theme=dark"></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true&theme=dark">
+</p>
 
-<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true&theme=dark"></a>
-
-<a href="https://github.com/RamiresOliv/nodecloud-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=nodecloud-cli&theme=dark"></a>
-<a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express&theme=dark"></a>
+<p align="center">
+  <a href="https://github.com/RamiresOliv/nodecloud-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=nodecloud-cli&theme=dark" width="250" height="250"></a>
+  <a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express&theme=dark" width="250" height="250"></a>
+</p>
 <p align="center"> Bye World! 😁</p>
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
