@@ -19,22 +19,26 @@ Expert em `Javascript, Lua, Python, Html, mucho mais`
 9. [ThreeD Python Cube](https://github.com/RamiresOliv/ThreeD_Python_cube/) -------------- (only me)   - _With more recent updates_ - OPEN SOURCE
 
 ### 😨 My in use projects:
-> Last table update: `04/28/2023`.
+> Last table update: `11/18/2023`.
 
-1. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
-4. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _No many current updates_ - _PRIVATED 25/06/22_  - TOTAL BR(Private)
+1. [NodeCloud-CLI](https://github.com/RamiresOliv/nodecloud-cli) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
+2. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
+3. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _No many current updates_ - _PRIVATED 25/06/22_  - TOTAL BR(Private)
 
 ### 🗿 Others
 
 [Discord MusicBot](https://discord.com/api/oauth2/authorize?client_id=757666380723126345&permissions=8&scope=bot) - Bot de musica brasileiro e generico.<br>
-[Top](https://youtu.be/mws0TDVgIQ8?t=15) - Video
+
+> [!IMPORTANT]\
+> Legal.
 
 Pretendo sempre aprender mais 😁
 
-<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresOliv&show_icons=true"></a>
+<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresOliv&show_icons=true&theme=dark"></a>
 
-<a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express"></a>
+<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true&theme=dark"></a>
 
-<a href="https://github.com/RamiresOliv"><img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true"></a>
+<a href="https://github.com/RamiresOliv/nodecloud-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=nodecloud-cli&theme=dark"></a>
+<a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express&theme=dark"></a>
 <p align="center"> Bye World! 😁</p>
 <h1 align="center"> 📑 Sobre RamiresOliv</h1>
