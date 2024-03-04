@@ -7,7 +7,7 @@
 > Marketdown maneiro
 
 Expert em `Javascript, Lua, Python, Html, mucho mais`<br>
-<image src="https://cataas.com/cat" height="60"></image>
+<img src="https://cataas.com/cat" style="height: 60px">
 
 ### 💼 My Projects _Trash..._
 > Last table update: `09/25/2023`.
