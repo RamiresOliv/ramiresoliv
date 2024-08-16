@@ -24,4 +24,4 @@ Atualmente um dos meus maiores focos é a minha própria linguagem de programaç
 <a href="https://github.com/RamiresOliv/RubberScript"> <img src="gif_footer.gif" alt="insane background (oops)" height="180px" width="1100px" align="center"> </a>
 <br><br>
 
-> <i>Esse layout de biografia foi inspirado de <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
+> <i>Inspiração para esse layout: <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
