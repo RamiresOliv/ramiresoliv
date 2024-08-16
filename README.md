@@ -1,28 +1,24 @@
-<img src="" alt="cato" min-width="400px" max-width="400px" width="400px" align="right">
-<font align="left">Meu nome é Gabriel, um programador mais focado em backend, gosto de usar principalmente JS, Lua, Py.
-Não tenho muitos projetos sérios, se quiser dar uma olhadinha nas minhas coisas, ta logo ai.
-Alguns dos meus projetos</font>
+<a href="https://www.lua.org/"> <img src="cat_icon.jpeg" alt="cate (oops)" min-width="400px" max-width="400px" width="400px" align="right"> </a>
+<i>"Ramires:"</i><br>
+<p align="left">Meu nome é Gabriel, um programador mais focado em backend, gosto de usar principalmente JS, Lua, Py.
+Não tenho muitos projetos sérios, se quiser dar uma olhada nas minhas criações, sinta-se à vontade.
+Atualmente um dos meus maiores focos é a minha própria linguagem de programação feita em lua (luau), apelidada de <a href="https://github.com/RamiresOliv/RubberScript"><b>RubberScript</b></a> ou (Rubber)</p>
 
-Expert em `Javascript, Lua, Python, Html, mucho mais`<br>
+---
 
-### Projetos:
-2. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
-3. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _No many current updates_ - _PRIVATED 25/06/22_  - TOTAL BR(Private)
+<font align="left">
+<h4>Projetos Principais:</h4>
+- <a href="https://github.com/RamiresOliv/RubberScript">OzoneOS: rubber-script</a>
+<br>
+- <a href="https://github.com/RamiresOliv/local_db_express">npm: local-db-express</a>
+<br>
+</font>
 
-### Outros projetos
-5. [projetos com python](https://github.com/RamiresOliv/projetos-com-python) -------------- (with [ArthurFt🥶](https://github.com/ArthurFt) and me) - _Ilde_
-6. [ThreeD Python Cube](https://github.com/RamiresOliv/ThreeD_Python_cube/) -------------- (only me)   - _With more recent updates_ - OPEN SOURCE - _Ilde_
-7. [Array Printer](https://github.com/RamiresOliv/ArrayPrinter) ----------------------- (only me)   - _With more recent updates_ - OPEN SOURCE - _Ilde_
+---
 
-<br><br>
+```clojure
+(print (str Hello World, here is Rubber! <3))
+```
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RamiresOliv&show_icons=true&theme=dark">
-</p>
-
-<p align="center">
-  <a href="https://github.com/RamiresOliv/nodecloud-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=nodecloud-cli&theme=dark" width="250" height="250"></a>
-  <a href="https://github.com/RamiresOliv/local_db_express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RamiresOliv&repo=local_db_express&theme=dark" width="250" height="250"></a>
-</p>
-<p align="center"> Bye World! 😁</p>
-<h1 align="center"> 📑 Sobre RamiresOliv</h1>
+<br>
+<a href="https://www.lua.org/"> <img src="cat_bg.jpeg" alt="insane background (oops)" height="200px" width="1100px" align="center"> </a>
