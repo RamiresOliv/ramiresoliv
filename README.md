@@ -21,4 +21,4 @@ Atualmente um dos meus maiores focos é a minha própria linguagem de programaç
 ```
 
 <br>
-<a href="https://www.lua.org/"> <img src="cat_bg.jpeg" alt="insane background (oops)" height="200px" width="1100px" align="center"> </a>
+<a href="https://www.lua.org/"> <img src="gif_footer.gif" alt="insane background (oops)" height="200px" width="1100px" align="center"> </a>
