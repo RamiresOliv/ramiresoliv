@@ -1,36 +1,19 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
-
-<h1 align="center"> 📑 Sobre RamiresOliv</h1>
-<p align="center"> Hello World! 😁</p>
-
-> [!IMPORTANT]\
-> Marketdown maneiro
+<img src="" alt="cato" min-width="400px" max-width="400px" width="400px" align="right">
+<font align="left">Meu nome é Gabriel, um programador mais focado em backend, gosto de usar principalmente JS, Lua, Py.
+Não tenho muitos projetos sérios, se quiser dar uma olhadinha nas minhas coisas, ta logo ai.
+Alguns dos meus projetos</font>
 
 Expert em `Javascript, Lua, Python, Html, mucho mais`<br>
 
-### 💼 My Projects _Trash..._
-> Last table update: `05/08/2024`.
+### Projetos:
+2. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
+3. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _No many current updates_ - _PRIVATED 25/06/22_  - TOTAL BR(Private)
 
-1. [datastorage-system](https://github.com/RamiresOliv/datastorage-system) --------------- (only me)   - _With no more recent updates_ - _PRIVATED_ - CLOSE SOURCE
-2. [OpenComputers Things](https://github.com/RamiresOliv/OpenComputers) ----------- (only me)   - _..._ - _Ilde_
-3. [Easy Jekyll](https://github.com/RamiresOliv/Easy_Jekyll) -------------------------- (only me)   - _..._ - _Ilde_
-4. [Minecraft Table](https://github.com/RamiresOliv/MinecraftTable) -------------------- (only me)   - _Repo for my Projects in Minecraft._ - _Ilde_
+### Outros projetos
 5. [projetos com python](https://github.com/RamiresOliv/projetos-com-python) -------------- (with [ArthurFt🥶](https://github.com/ArthurFt) and me) - _Ilde_
 6. [ThreeD Python Cube](https://github.com/RamiresOliv/ThreeD_Python_cube/) -------------- (only me)   - _With more recent updates_ - OPEN SOURCE - _Ilde_
 7. [Array Printer](https://github.com/RamiresOliv/ArrayPrinter) ----------------------- (only me)   - _With more recent updates_ - OPEN SOURCE - _Ilde_
 
-### 😨 My in use projects:
-> Last table update: `11/18/2023`.
-
-1. [NodeCloud-CLI](https://github.com/RamiresOliv/nodecloud-cli) --------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
-2. [local db express](https://github.com/RamiresOliv/local_db_express) -------------------- (only me)   - _With more recent updates_ - NPM module - OPEN SOURCE
-3. [Music_Bot](https://github.com/RamiresOliv/Bot_Music) -------------------------- (only me)   - _No many current updates_ - _PRIVATED 25/06/22_  - TOTAL BR(Private)
-
-### 🗿 Others
-
-[Discord MusicBot](https://discord.com/api/oauth2/authorize?client_id=757666380723126345&permissions=8&scope=bot) - Bot de musica brasileiro e generico.<br>
-
-Pretendo sempre aprender mais 😁
 <br><br>
 
 <p align="center">
