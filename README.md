@@ -23,3 +23,6 @@ Atualmente um dos meus maiores focos é a minha própria linguagem de programaç
 
 <br>
 <a href="https://www.lua.org/"> <img src="gif_footer.gif" alt="insane background (oops)" height="180px" width="1100px" align="center"> </a>
+<br><br>
+
+> <i>Esta biografia foi inspirada em outra biografia feita por <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
