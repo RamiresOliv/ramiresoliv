@@ -8,7 +8,7 @@ Atualmente um dos meus maiores focos é a minha própria linguagem de programaç
 
 <font align="left">
 <h4>Projetos Principais:</h4>
-<a href="https://github.com/RamiresOliv/RubberScript">OzoneOS: rubber-script</a>
+<a href="https://github.com/RamiresOliv/Cobalt">Cobalt language</a>
 <br>
 <a href="https://github.com/RamiresOliv/local_db_express">npm: local-db-express</a>
 <br>
