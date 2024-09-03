@@ -17,11 +17,11 @@ Atualmente um dos meus maiores focos é a minha própria linguagem de programaç
 ---
 
 ```clojure
-(print (str Hello World, here is Rubber! <3))
+(print "Hello World, I am Cobalt.")
 ```
 
 <br>
-<a href="https://github.com/RamiresOliv/RubberScript"> <img src="gif_footer.gif" alt="insane background (oops)" height="180px" width="1100px" align="center"> </a>
+<a href="https://github.com/RamiresOliv/Cobalt"> <img src="gif_footer.gif" alt="insane background (oops)" height="180px" width="1100px" align="center"> </a>
 <br><br>
 
 > <i>Inspiração para esse layout: <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
