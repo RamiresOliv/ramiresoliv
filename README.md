@@ -10,7 +10,7 @@ Atualmente um dos meus maiores focos é a minha própria linguagem de programaç
 <h4>Projetos Principais:</h4>
 <a href="https://github.com/RamiresOliv/cobalt">cobalt language</a>
 <br>
-<a href="https://github.com/RamiresOliv/local_db_express">npm: local-db-express</a>
+<a href="https://github.com/RamiresOliv/esp-projects">esp32 projects</a>
 <br>
 </font>
 
