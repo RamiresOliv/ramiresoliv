@@ -8,9 +8,11 @@ Currently learning more C++ for microcontrollers. Like ESP32-S3 and Arduino Uno.
 
 <font align="left">
 <h4>Main Projects:</h4>
-<a href="https://github.com/RamiresOliv/cobalt">cobalt language (idle)</a>
+<a href="https://github.com/RamiresOliv/cobalt">cobalt language</a>
 <br>
-<a href="https://github.com/RamiresOliv/esp-projects">esp32 projects</a>
+<a href="https://github.com/RamiresOliv/esp-projects">esp32 projects (idle)</a>
+<br>
+<a href="https://github.com/RamiresOliv/puropixel-ssd1306">puropixel ssd1306</a>
 <br>
 </font>
 
