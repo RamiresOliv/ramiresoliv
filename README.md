@@ -27,12 +27,20 @@ Currently learning more Roblox-TS.
 
 ---
 
-```clojure
-(print "Hello World, I am Cobalt.")
+```ts
+import { CollectionService } from "@rbxts/services";
+
+for (const obj of CollectionService.GetTagged("Lava")) {
+    if (obj.IsA("BasePart")) {
+        obj.Touched.Connect(part =>
+            part
+                .Parent
+                ?.FindFirstChildOfClass("Humanoid")
+                ?.TakeDamage(100)
+        );
+    }
+}
 ```
 
-<br>
-<a href="https://ramiresoliv.github.io/Cobalt"> <img src="gif_footer.gif" alt="insane background (oops)" height="180px" width="1100px" align="center"> </a>
-<br><br>
 
 > <i>Inspiration for this layout: <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
