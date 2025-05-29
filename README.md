@@ -18,7 +18,6 @@ Currently learning more Roblox-TS.
 <h4>Using/Used:</h4>
 
 <a href="https://roblox-ts.com/"><img height="50px" width="50px" src="https://github.com/user-attachments/assets/38c71ae9-2007-42e6-af0f-db395af752f8"></a>&nbsp;&nbsp;&nbsp;<a href="https://rojo.space/"><img height="50px" width="100px" src="https://github.com/user-attachments/assets/9e15aeac-d247-4de6-9fa1-16af656441a7">
-
 <img src="https://skillicons.dev/icons?i=ts,lua,py,js,ruby,cpp,java,react&theme=dark">
 
 <img src="https://skillicons.dev/icons?i=robloxstudio,vscode,arduino,blender,raspberrypi,linux,windows&theme=dark">
