@@ -1,14 +1,14 @@
 <a href="https://github.com/RamiresOliv"> <img src="https://avatars.githubusercontent.com/u/69019082?v=4" alt="cate (oops)" min-width="400px" max-width="400px" width="400px" align="right"> </a>
 <i>"Ramires"</i><br>
 <p align="left">Hello, my name is Gabriel Ramires de Oliveira, a backend-focused programmer, addicted to coffee. I don't have many serious projects, but if you want to take a look at my creations, feel free.
-Currently learning more Roblox-TS.
+Currently learning more Roblox-TS and Embedded systems.
 </p
 
 ---
 
 <font align="left">
 <h4>Main Projects:</h4>
-<a href="https://github.com/RamiresOliv/cobalt">cobalt language (unstable - windows)</a>
+<a href="https://github.com/RamiresOliv/cobalt">cobalt language (concept)</a>
 <br>
 <a href="https://github.com/RamiresOliv/esp-projects">esp32 projects (idle)</a>
 <br>
@@ -23,7 +23,7 @@ Currently learning more Roblox-TS.
 
 <img src="https://skillicons.dev/icons?i=ts,lua,py,js,ruby,c,cpp,java,react&theme=dark">
 
-<img src="https://skillicons.dev/icons?i=robloxstudio,vscode,arduino,blender,raspberrypi,linux,windows&theme=dark">
+<img src="https://skillicons.dev/icons?i=robloxstudio,npm,vscode,arduino,blender,raspberrypi,linux,windows&theme=dark">
 
 ---
 
