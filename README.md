@@ -8,7 +8,7 @@ Currently learning more Roblox-TS and Embedded systems.
 
 <font align="left">
 <h4>Main Projects:</h4>
-<a href="https://github.com/RamiresOliv/VirtualLunar">computer in Roblox Env. (based in [OpenComputers](https://github.com/MightyPirates/OpenComputers))</a>
+<a href="https://github.com/RamiresOliv/VirtualLunar">computer in Roblox Env.</a> (based in <a href="https://github.com/MightyPirates/OpenComputers">OpenComputers</a>)
 <br>
 <a href="https://github.com/RamiresOliv/cobalt">cobalt language (concept)</a>
 <br>
